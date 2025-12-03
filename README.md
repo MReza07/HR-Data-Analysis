@@ -275,9 +275,9 @@ How to Use
 
 Feel free to reach out for collaboration, dashboard customization, or HR analytics assistance.
 
-📧 Email: your-reazulrepon@gmail.com
+📧 Email:reazulrepon@gmail.com
 
-💼 Portfolio: GitHub profile link-https://github.com/MReza07
+💼 GitHub profile link-https://github.com/MReza07
 
 
 
