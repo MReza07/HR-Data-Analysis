@@ -198,11 +198,13 @@ Additional Insights
 Attrition by Years with Current Manager: ​
 Attrition is highest for employees with 0-2 years with their current manager.
 
+Attrition is highest for Research & Development
+
 🛠️ Tools & Technologies
 
-Power BI – Dashboard development, modeling, DAX calculations
+Power BI Desktop (Version: 2024) – Dashboard development, modeling, DAX calculations
 
-Excel / CSV – Data cleaning and preparation
+Excel 2021 / CSV – Data cleaning and preparation
 
 Power Query – Data transformation
 
@@ -250,6 +252,13 @@ DIVIDE(
 Average Salary = AVERAGE('Employees'[MonthlyIncome])
 
 
+Total Employees = COUNTROWS(HR_Analytics)
+
+Active Employees = [Total Employees]-[Attrition]
+
+
+Attrition = CALCULATE(COUNTROWS(HR_Analytics),HR_Analytics[Attrition]="Yes")
+
 ✨ Key Outcomes
 
 Identified major attrition drivers such as job role, overtime, and salary band
@@ -261,11 +270,20 @@ Revealed demographic patterns supporting better workforce planning
 Delivered insights to improve employee engagement and retention strategies
 
 How to Use
-1. Clone the repository: git clone https:[//github.com/mayourbukhari/Data-Analytics-Projects-with-Power-BI.git](https://github.com/MReza07/HR-Data-Analysis/tree/main/Report)
-2. 
-3. Install Power BI Desktop: Download Link-https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop
-4. 
-5. Open the project file in Power BI Desktop.
+
+## How to Use
+
+1. Clone the repository  
+   `git clone https://github.com/MReza07/HR-Data-Analysis.git
+   
+2.Install Power BI Desktop: Download Link-https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop
+
+3. Open the file  
+   `HR_Analytics.pbix` in Power BI Desktop.
+
+4. Go to Home → Transform Data → Refresh to load latest dataset.
+
+5. Navigate between pages using left panel in Power BI.
 
 6. Basic Power BI Knowledge: Familiarity with Power BI Desktop, including data import, DAX calculations, and dashboard creation.
 
