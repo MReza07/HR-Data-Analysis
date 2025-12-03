@@ -4,6 +4,10 @@ A comprehensive HR analytics project designed to help organizations make data-dr
 
 
 📷 Dashboard Preview
+![Image](https://github.com/user-attachments/assets/046179d2-f4e6-493e-83fa-f4520736300d)
+![Image](https://github.com/user-attachments/assets/2c187950-e50c-4d8e-b0a5-885772851763)
+![Image](https://github.com/user-attachments/assets/6056efdb-c211-44ba-8976-90051d7a6c69)
+![Image](https://github.com/user-attachments/assets/13b19a49-0604-4a59-9c6b-568d82031f4b)
 
 
 📊 Key Insights Covered:
