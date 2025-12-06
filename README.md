@@ -1,9 +1,9 @@
-HR Data Analysis – Power BI Dashboard:
+## 📊 HR Data Analysis – Power BI Dashboard:
 
 A comprehensive HR analytics project designed to help organizations make data-driven workforce decisions. This analysis focuses on employee performance, retention, demographics, absenteeism, and workforce planning. Using Power BI, the project transforms raw HR data into actionable insights that support strategic HR management.
 
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 ![Image](https://github.com/user-attachments/assets/046179d2-f4e6-493e-83fa-f4520736300d)
 ![Image](https://github.com/user-attachments/assets/2c187950-e50c-4d8e-b0a5-885772851763)
